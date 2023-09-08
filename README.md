@@ -2,3 +2,4 @@
 - 🌱 I’m currently learning rust
 - 📫 Reach me at jarand@romestrand.com
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaIch&show_icons=true&theme=radical&layout=compact"/>
