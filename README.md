@@ -4,4 +4,4 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JarandJR&show_icons=true&theme=radical&layout=compact"/>
 
-  http://github-profile-summary-cards.vercel.app/api/cards/stats?username={JarandJR}&theme={transparent}
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JarandJR&theme=transparent"/>
