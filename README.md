@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jarand Jensen Romestrand
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning rust, c++ and more
 - 📫 Reach me at jarand@romestrand.com
 - 📮 <a href="https://www.linkedin.com/in/jarand-jensen-romestrand-aa754b263/">LinkedIn</a>
 
